@@ -273,19 +273,19 @@ Combine multiple retrieval strategies:
 ## Deliverables
 
 ### Part 1: Code Q&A with Bash Tools (100 points)
-- [ ] Implement query classification to determine question type
-- [ ] Implement bash tool selection logic based on query type
-- [ ] Execute bash commands and capture output as context
-- [ ] Pass context to LLM and generate answers
-- [ ] Answer test questions correctly with file references
-- [ ] Save results to `part1_results.txt`
+- [x] Implement query classification to determine question type
+- [x] Implement bash tool selection logic based on query type
+- [x] Execute bash commands and capture output as context
+- [x] Pass context to LLM and generate answers
+- [x] Answer test questions correctly with file references
+- [x] Save results to `part1_results.txt`
 
 ### Part 2: Multi-Source RAG (100 points)
-- [ ] Implement query router
-- [ ] Handle at least 3 different source types
-- [ ] Implement source-specific retrieval
-- [ ] Combine results from multiple sources
-- [ ] Save results to `part2_results.txt`
+- [x] Implement query router
+- [x] Handle at least 3 different source types
+- [x] Implement source-specific retrieval
+- [x] Combine results from multiple sources
+- [x] Save results to `part2_results.txt`
 
 ## Grading Criteria
 
