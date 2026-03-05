@@ -1,0 +1,66 @@
+Part 2: Multi-Source RAG with Query Routing - Results
+============================================================
+
+Question 1 [csv]:
+What was the total revenue for Electronics category in December 2024?
+----------------------------------------
+According to the provided context, the total revenue for the Electronics category in December 2024 was $142,864.31.
+
+============================================================
+
+Question 2 [csv]:
+Which region had the highest sales volume?
+----------------------------------------
+Based on the provided context, the region with the highest sales volume is the Central region, with 6,779 units sold.
+
+============================================================
+
+Question 3 [text]:
+What are the key features of the Wireless Bluetooth Headphones?
+----------------------------------------
+Based on the provided product page for the Wireless Bluetooth Headphones (SKU: ELEC001), the key features are:
+
+1. Active Noise Cancellation (ANC) with transparency mode
+2. Bluetooth 5.2 for stable connectivity up to 30ft range
+3. 40-hour battery life, quick charge (10 min = 3 hours playback)
+4. Premium memory foam ear cushions for all-day comfort
+5. Foldable design with carrying case included
+6. Built-in microphone for calls and voice assistant
+
+============================================================
+
+Question 4 [text]:
+What do customers say about the Air Fryer's ease of cleaning?
+----------------------------------------
+According to the customer reviews for the Air Fryer 5.5L (KitchenPro Elite), customers have mentioned the ease of cleaning as a positive aspect of the product. 
+
+Review 1 by Patricia W. states: "Easy to clean and the presets work perfectly."
+
+Review 3 by Lisa G. also mentions: "But the food quality is excellent and cleanup is a breeze."
+
+These reviews suggest that customers find the Air Fryer easy to clean, with one customer even describing it as a "breeze".
+
+============================================================
+
+Question 5 [both]:
+Which product has the best customer reviews and how well is it selling?
+----------------------------------------
+Based on the provided context, the product with the best customer reviews is the "Vitamin C Serum" (BEAU001) from GlowLab Skincare. It has an average rating of 4.3/5 (8,567 reviews) with 5-star reviews from Nicole T., Rachel M., and Danielle F.
+
+However, to determine how well it is selling, we need to refer to the structured sales data. Unfortunately, the product name "Vitamin C Serum" is not present in the top 10 products by units sold list. Therefore, we cannot determine its sales volume or revenue directly from the provided context.
+
+To get a better understanding of its sales performance, we would need more data or information about its sales history, such as its sales rank, revenue, or units sold over time.
+
+============================================================
+
+Question 6 [both]:
+I want a product for fitness that is highly rated and sells well in the West region. What do you recommend?
+----------------------------------------
+Based on the provided context, I recommend the "Resistance Bands Set" product. 
+
+It is a top product in the Sports category, with 790 units sold. Although the exact revenue is not provided, it is mentioned that the product has a total revenue of $15,356.45. 
+
+Additionally, the product is listed as one of the top products in the West region, with 342 units sold.
+
+============================================================
+
